@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>headerImageName</key>
+	<string>小清新</string>
+	<key>nickName</key>
+	<string>那就是风</string>
+	<key>sex</key>
+	<string>男</string>
+	<key>birthday</key>
+	<string>1989-6-9</string>
+	<key>isBandingWX</key>
+	<true/>
+	<key>isBandingQQ</key>
+	<false/>
+</dict>
+</plist>
